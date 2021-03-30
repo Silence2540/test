@@ -6,5 +6,5 @@
 ### 2019112320丁世诚
 ### 2019112315蔡欣运
 ### 2019114983肖林杰
-##小组作品：
-###[3Dprinting](https://www.zaowu.fun/p/6062f4d8234c46320e6d2e81)
+## 小组作品：
+### [3Dprinting](https://www.zaowu.fun/p/6062f4d8234c46320e6d2e81)
