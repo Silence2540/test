@@ -8,3 +8,4 @@
 ### 2019114983肖林杰
 ## 小组作品：
 ### [3Dprinting](https://www.zaowu.fun/p/6062f4d8234c46320e6d2e81)
+### [laser作业-肖林杰](https://www.zaowu.fun/p/6062fdb1234c46320e6d2ee5)
