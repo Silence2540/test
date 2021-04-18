@@ -9,3 +9,4 @@
 ## 小组作品：
 ### [3Dprinting](https://www.zaowu.fun/p/6062f4d8234c46320e6d2e81)
 ### [laser作业-肖林杰](https://www.zaowu.fun/p/6062fdb1234c46320e6d2ee5)
+### [laser作业-沈海强-雪花](https://zaowu.fun/p/606095ca234c46320e6d2c51)
