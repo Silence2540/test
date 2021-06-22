@@ -1,5 +1,12 @@
-[TOC]
-# 学习过程介绍
+- [学习过程介绍](#jump1)
+- [作业](#jump2)
+  - [小作业](#jump3)
+  - [中期作业](#jump4)
+  - [大作业](#jump5)
+    - [项目一：盲人帽（沈海强、肖林杰）](#jump6)
+    - [项目二：超声雷达模拟（）](#jump7)
+- [学习体会](#jump8)
+# <span id="jump1">学习过程介绍</span>
 1.	了解创客、造物、信息技术概述
 2.	掌握面向开源及私有软件项目的托管平台Github的使用和团队项目管理策略
 3.	利用FreeCAD进行三维设计，并结合Cura学习如何使用3D打印机
@@ -12,26 +19,33 @@
 10.	头脑风暴，研讨大作业设计的选题
 11.	实操制作，结合之前所学内容进行大作业的设计、选材、开发、组装等；
 12.	组织展览，相互借鉴学习其他小组的优秀作品
-# 作业
-## 小作业：
-## 小作业
+# <span id="jump2">作业</span>
+## <span id="jump3">小作业</span>
 [3Dprinting](https://www.zaowu.fun/p/6062f4d8234c46320e6d2e81)
+
 [laser作业-肖林杰](https://www.zaowu.fun/p/6062fdb1234c46320e6d2ee5)
+
 [laser作业-沈海强-雪花](https://zaowu.fun/p/606095ca234c46320e6d2c51)
+
 [laser作业-蔡欣运](https://www.zaowu.fun/p/60856fc6234c46320e6d3656)
+
 [laser作业-周欣成](https://zaowu.fun/p/60b43121234c46320e6d3813)
+
 [laser作业-吴可涵](https://zaowu.fun/p/60b442c2234c46320e6d3835)
-## 中期作业
+## <span id="jump4">中期作业</span>
 [项目报告](https://hub.fastgit.org/Silence2540/test/blob/main/assessment3/3dprinter-hack.md)
+
 [项目视频](https://b23.tv/hIW9UP)
-## 大作业
-### 项目一：盲人帽（沈海强、肖林杰）
+## <span id="jump5">大作业</span>
+### <span id="jump6">项目一：盲人帽（沈海强、肖林杰）</span>
 [项目报告](https://www.zaowu.fun/p/60cfe16b234c46320e6d3e58)
+
 [项目代码]()
-### 项目二：超声雷达模拟（）
+### <span id="jump7">项目二：超声雷达模拟（）</span>
 [项目报告]()
+
 [项目代码]()
-# 学习体会
+# <span id="jump8">学习体会</span>
 #### 2019114548沈海强
 #### 2019112369吴可涵
 #### 2019112270周欣成
@@ -49,4 +63,3 @@
 以后，做一个敢想敢造的人——
 想有、想无、想未来；
 造物、造势、造人生。
-
