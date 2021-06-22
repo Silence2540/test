@@ -1,12 +1,11 @@
-- [学习过程介绍](#jump1)
-- [作业](#jump2)
-  - [小作业](#jump3)
-  - [中期作业](#jump4)
-  - [大作业](#jump5)
-    - [项目一：盲人帽（沈海强、肖林杰）](#jump6)
-    - [项目二：超声雷达模拟（）](#jump7)
-- [学习体会](#jump8)
-<span id="jump1"></span>
+- [学习过程介绍](#%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E4%BB%8B%E7%BB%8D)
+- [作业](#%E4%BD%9C%E4%B8%9A)
+  - [小作业](#%E5%B0%8F%E4%BD%9C%E4%B8%9A)
+  - [中期作业](#%E4%B8%AD%E6%9C%9F%E4%BD%9C%E4%B8%9A)
+  - [大作业](#%E5%A4%A7%E4%BD%9C%E4%B8%9A)
+    - [项目一：盲人帽（沈海强、肖林杰）](#%E9%A1%B9%E7%9B%AE%E4%B8%80%E7%9B%B2%E4%BA%BA%E5%B8%BD%E6%B2%88%E6%B5%B7%E5%BC%BA%E8%82%96%E6%9E%97%E6%9D%B0)
+    - [项目二：超声雷达模拟（）](#%E9%A1%B9%E7%9B%AE%E4%BA%8C%E8%B6%85%E5%A3%B0%E9%9B%B7%E8%BE%BE%E6%A8%A1%E6%8B%9F)
+- [学习体会](#%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A)
 # 学习过程介绍
 1.	了解创客、造物、信息技术概述
 2.	掌握面向开源及私有软件项目的托管平台Github的使用和团队项目管理策略
@@ -20,9 +19,7 @@
 10.	头脑风暴，研讨大作业设计的选题
 11.	实操制作，结合之前所学内容进行大作业的设计、选材、开发、组装等；
 12.	组织展览，相互借鉴学习其他小组的优秀作品
-<span id="jump2"></span>
 # 作业
-<span id="jump3"></span>
 ## 小作业
 [3Dprinting](https://www.zaowu.fun/p/6062f4d8234c46320e6d2e81)
 
@@ -35,24 +32,19 @@
 [laser作业-周欣成](https://zaowu.fun/p/60b43121234c46320e6d3813)
 
 [laser作业-吴可涵](https://zaowu.fun/p/60b442c2234c46320e6d3835)
-<span id="jump4"></span>
 ## 中期作业
 [项目报告](https://hub.fastgit.org/Silence2540/test/blob/main/assessment3/3dprinter-hack.md)
 
 [项目视频](https://b23.tv/hIW9UP)
-<span id="jump5"></span>
 ## 大作业
-<span id="jump6"></span>
 ### 项目一：盲人帽（沈海强、肖林杰）
 [项目报告](https://www.zaowu.fun/p/60cfe16b234c46320e6d3e58)
 
 [项目代码]()
-<span id="jump7"></span>
 ### 项目二：超声雷达模拟（）
 [项目报告]()
 
 [项目代码]()
-<span id="jump8"></span>
 # 学习体会
 ### 2019114548沈海强
 ### 2019112369吴可涵
