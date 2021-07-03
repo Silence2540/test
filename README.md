@@ -40,7 +40,8 @@
 ### 项目一：盲人帽（沈海强、肖林杰）
 [项目报告](https://www.zaowu.fun/p/60cfe16b234c46320e6d3e58)
 
-[项目代码]()
+[项目代码1：Arduino部分](https://github.com/Silence2540/test/blob/main/assignment-3d/code/盲人帽_Arduino.c)
+[项目代码2：ESP8266部分](https://github.com/Silence2540/test/blob/main/assignment-3d/code/盲人帽_ESP8266.c)
 ### 项目二：超声雷达模拟（）
 [项目报告]()
 
