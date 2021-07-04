@@ -32,6 +32,9 @@
 [laser作业-周欣成](https://zaowu.fun/p/60b43121234c46320e6d3813)
 
 [laser作业-吴可涵](https://zaowu.fun/p/60b442c2234c46320e6d3835)
+
+[laser作业-丁世诚](https://www.zaowu.fun/p/60e1dc0a234c46320e6d4596)
+
 ## 中期作业
 [项目报告](https://hub.fastgit.org/Silence2540/test/blob/main/assessment3/3dprinter-hack.md)
 
