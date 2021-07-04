@@ -45,7 +45,7 @@
 
 [项目代码1：Arduino部分](https://github.com/Silence2540/test/blob/main/code/%E7%9B%B2%E4%BA%BA%E5%B8%BD_Arduino.c)  
 [项目代码2：ESP8266部分](https://github.com/Silence2540/test/blob/main/code/%E7%9B%B2%E4%BA%BA%E5%B8%BD_ESP8266.c)
-### 项目二：超声雷达模拟（）
+### 项目二：超声雷达模拟（蔡欣运、丁世诚、吴可涵、周欣成）
 [项目报告](https://www.zaowu.fun/p/60d086fa234c46320e6d4335)
 
 [项目代码1：Arduino部分](https://github.com/Silence2540/test/blob/main/code/%E8%B6%85%E5%A3%B0%E9%9B%B7%E8%BE%BE%E6%A8%A1%E6%8B%9F_Arduino.c)
