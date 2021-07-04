@@ -4,7 +4,7 @@
   - [中期作业](#%E4%B8%AD%E6%9C%9F%E4%BD%9C%E4%B8%9A)
   - [大作业](#%E5%A4%A7%E4%BD%9C%E4%B8%9A)
     - [项目一：盲人帽（沈海强、肖林杰）](#%E9%A1%B9%E7%9B%AE%E4%B8%80%E7%9B%B2%E4%BA%BA%E5%B8%BD%E6%B2%88%E6%B5%B7%E5%BC%BA%E8%82%96%E6%9E%97%E6%9D%B0)
-    - [项目二：超声雷达模拟（）](#%E9%A1%B9%E7%9B%AE%E4%BA%8C%E8%B6%85%E5%A3%B0%E9%9B%B7%E8%BE%BE%E6%A8%A1%E6%8B%9F)
+    - [项目二：超声雷达模拟（蔡欣运、周欣成、吴可涵、丁世诚）](#%E9%A1%B9%E7%9B%AE%E4%BA%8C%E8%B6%85%E5%A3%B0%E9%9B%B7%E8%BE%BE%E6%A8%A1%E6%8B%9F)
 - [学习体会](#%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A)
 # 学习过程介绍
 1.	了解创客、造物、信息技术概述
@@ -32,6 +32,9 @@
 [laser作业-周欣成](https://zaowu.fun/p/60b43121234c46320e6d3813)
 
 [laser作业-吴可涵](https://zaowu.fun/p/60b442c2234c46320e6d3835)
+
+[laser作业-丁世诚](https://www.zaowu.fun/p/60e1dc0a234c46320e6d4596)
+
 ## 中期作业
 [项目报告](https://hub.fastgit.org/Silence2540/test/blob/main/assessment3/3dprinter-hack.md)
 
@@ -43,7 +46,7 @@
 [项目代码1：Arduino部分](https://github.com/Silence2540/test/blob/main/code/%E7%9B%B2%E4%BA%BA%E5%B8%BD_Arduino.c)  
 [项目代码2：ESP8266部分](https://github.com/Silence2540/test/blob/main/code/%E7%9B%B2%E4%BA%BA%E5%B8%BD_ESP8266.c)
 ### 项目二：超声雷达模拟（）
-[项目报告]()
+[项目报告](https://www.zaowu.fun/p/60d086fa234c46320e6d4335)
 
 [项目代码]()
 # 学习体会
