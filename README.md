@@ -48,7 +48,8 @@
 ### 项目二：超声雷达模拟（）
 [项目报告](https://www.zaowu.fun/p/60d086fa234c46320e6d4335)
 
-[项目代码]()
+[项目代码1：Arduino部分](https://github.com/Silence2540/test/blob/main/code/%E8%B6%85%E5%A3%B0%E9%9B%B7%E8%BE%BE%E6%A8%A1%E6%8B%9F_Arduino.c)
+[项目代码2：Processing部分](https://github.com/Silence2540/test/blob/main/code/%E8%B6%85%E5%A3%B0%E9%9B%B7%E8%BE%BE%E6%A8%A1%E6%8B%9F_Processing.pde)
 # 学习体会
 ### 2019114548沈海强
 从代码到实物,是指使用代码来控制身边的事物.这门课程的学习,使我感受到了自己所学内容的真正应用,通过自己亲手所写的代码来控制身边的一切.这门课程,不仅让我了解到了3D打印的基本知识和操作流程,以及使用FreeCAD建立打印的模型,而且还学习到了激光切割机的使用方法.最后,我们还学习了代码到实物的控制核心-Arduino.

@@ -1,4 +1,4 @@
-//encoded in UTF-8
+//in UTF-8
 #include<Servo.h>
 
 //超声雷达测距器输入输出引脚
@@ -31,6 +31,7 @@ void loop(void)
     motor.write(motorAngle);
     delay(300);
     SerialOutput(motorAngle, CalculateDistance());
+    //旋转舵机，带动超声测距
     motorAngle += motorRotateAmount;
     if(motorAngle <= minimumAngle || motorAngle >= maximumAngle) {
         motorRotateAmount = -motorRotateAmount;
